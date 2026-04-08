@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.passion-petanque.info/sitemap.xml
+Sitemap: https://www.passion-petanque.info/sitemap.txt
 
 # Crawl-delay optionnel (évite surcharge serveur)
 Crawl-delay: 1
